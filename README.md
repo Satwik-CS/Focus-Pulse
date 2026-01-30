@@ -1,3 +1,6 @@
+<img width="1915" height="964" alt="Screenshot 2026-01-30 195611" src="https://github.com/user-attachments/assets/d2f5faed-485f-4003-8028-7dd5520bc278" />
+<img width="1919" height="876" alt="Screenshot 2026-01-30 195639" src="https://github.com/user-attachments/assets/907207ed-cfae-4791-8903-539593efaae7" />
+<img width="1919" height="870" alt="Screenshot 2026-01-30 200258" src="https://github.com/user-attachments/assets/57b75baf-ce68-4a4a-b512-e0cedb3535e0" />
 # Focus-Pulse-Web-Dev-Project
 Focus Pulse is a lightweight browser-based focus tracker that measures real study time, detects tab-switch distractions and inactivity, and generates a focus score. Built with HTML, CSS, and Vanilla JavaScript, it runs fully client-side using browser APIs and localStorage for privacy-first insights.
 The entire application runs fully in the browser using standard web technologies. There is no backend, no authentication, no browser extensions, and no external data storage. All session data is stored locally using the browser’s localStorage, ensuring complete privacy and offline usability.
