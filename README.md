@@ -8,27 +8,27 @@ Students often plan to study for a fixed duration, but distractions like tab swi
 
 ⚙️ Key Features
 
-Create focus sessions with a task name, duration, and inactivity threshold
+> Create focus sessions with a task name, duration, and inactivity threshold
 
-Real-time countdown timer with drift correction using Date.now
+> Real-time countdown timer with drift correction using Date.now
 
-Automatic detection of distractions when the browser tab becomes hidden
+> Automatic detection of distractions when the browser tab becomes hidden
 
-Inactivity tracking using keyboard and mouse events
+> Inactivity tracking using keyboard and mouse events
 
-Live session status indicator (Focused / Idle / Hidden)
+> Live session status indicator (Focused / Idle / Hidden)
 
-Focus score (0–100) calculated based on focused time, idle time, and distractions
+> Focus score (0–100) calculated based on focused time, idle time, and distractions
 
-Session summary displayed after completion
+> Session summary displayed after completion
 
-Persistent session history stored in localStorage
+> Persistent session history stored in localStorage
 
-Aggregate insights such as total focus time and average focus score
+> Aggregate insights such as total focus time and average focus score
 
-Optional visualization of session data
+> Optional visualization of session data
 
-Fully responsive and accessible UI
+> Fully responsive and accessible UI
 
 🧠 How It Works
 
@@ -40,46 +40,46 @@ If the page reloads during an active session, the app automatically restores the
 
 🛠️ Tech Stack
 
-HTML5 (semantic structure)
+> HTML5 (semantic structure)
 
-CSS3 (responsive and accessible design)
+> CSS3 (responsive and accessible design)
 
-Vanilla JavaScript (ES6)
+> Vanilla JavaScript (ES6)
 
 Browser APIs:
 
-document.visibilitychange
+> document.visibilitychange
 
-Keyboard and mouse event listeners
+> Keyboard and mouse event listeners
 
-localStorage
+> localStorage
 
-Date.now for accurate timing
+> Date.now for accurate timing
 
 Optional: Chart.js for data visualization
 
 🔐 Privacy & Performance
 
-No backend or server communication
+> No backend or server communication
 
-No user accounts or tracking
+> No user accounts or tracking
 
-All data stays on the user’s device
+> All data stays on the user’s device
 
-Optimized to handle hundreds of sessions smoothly
+> Optimized to handle hundreds of sessions smoothly
 
-Timer drift kept under one second for long sessions
+> Timer drift kept under one second for long sessions
 
 📱 Accessibility & Responsiveness
 
 The interface is designed to be minimal and distraction-free, with:
 
-Semantic HTML elements
+> Semantic HTML elements
 
-Keyboard-operable controls
+> Keyboard-operable controls
 
-Visible focus states
+> Visible focus states
 
-Clear status indicators
+> Clear status indicators
 
-Mobile-friendly layout starting from small screen widths
+> Mobile-friendly layout starting from small screen widths
